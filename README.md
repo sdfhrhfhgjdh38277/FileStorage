@@ -16,7 +16,7 @@
 1. Клонируйте этот репозиторий:
 
    ```bash
-   git clone https://github.com/ваш_пользователь/название_репозитория.git
+   git clone https://github.com/sdfhrhfhgjdh38277/FileStorage.git
 2. Перейдите в директорию проекта:
     ```bash
    cd название_директории
