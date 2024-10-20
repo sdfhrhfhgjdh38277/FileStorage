@@ -1,0 +1,5 @@
+PyQt5
+sqlite3
+loguru
+logging
+flet
