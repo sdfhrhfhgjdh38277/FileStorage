@@ -30,4 +30,4 @@
 
 
 Связь с разработчком, или предложения(юзер-нейм в телеграмме): @Python_tor
-Документация находится в корне проекта [Открыть документацию](https://github.com/sdfhrhfhgjdh38277/FileStorage/blob/main/FLS_Project_Documentation_Russian_lang.docx)
+Документация находится в корне проекта. [Открыть документацию](https://github.com/sdfhrhfhgjdh38277/FileStorage/blob/main/FLS_Project_Documentation_Russian_lang.docx)
